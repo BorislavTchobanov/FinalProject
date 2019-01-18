@@ -6,3 +6,12 @@
 /.idea
 backend/build/tmp/
 jokedisplaylib/jokedisplaylib.iml
+/backend/backend.iml
+/backend/build/distributions/backend-discoveryDocs.zip
+/.idea/caches/build_file_checksums.ser
+/FinalProject.iml
+/javaJokes/javaJokes.iml
+/.idea/misc.xml
+/backend/build/endpointsDiscoveryDocs/myApi-v1-rest.discovery
+/backend/build/classes/java/main/com/udacity/gradle/builditbigger/backend/MyEndpoint.class
+/app/app.iml
